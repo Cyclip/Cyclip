@@ -16,18 +16,6 @@
 
 <h2 align="center">I'm studying Mathematics and Computer Science, and aspiring to become a Software Engineer.</h2>
 
-I'm learning:
-- Python
-- Rust
-- Django
-- MongoDB
-
-I will be learning:
-- Machine Learning
-  - Natural Language Processing
-- Golang
-- C++
-
 I have used:
 - [Tauri Studio](https://tauri.studio/) (Rust)
 - [Django Framework](https://www.djangoproject.com/) (Python)
