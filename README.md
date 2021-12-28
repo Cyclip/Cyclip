@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Ifaz</h1>
+[![Cyclip's GitHub stats](https://github-readme-stats.vercel.app/api?username=cyclip&count_private=true&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 <div align="center" style="text-align: center; margin-bottom: 10px;">
     <a style="margin: 10px; font-size: 16px;" href="https://www.linkedin.com/in/ifaz-ahmed/">LinkedIn</a>
