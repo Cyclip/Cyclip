@@ -30,7 +30,8 @@ I'm working on:
   - Django
   - MongoDB
   - Full stack
-- [RBase](https://github.com/Cyclip/rbase)
+- [Votano](https://github.com/Cyclip/votano)
   - Rust
-  - Databases
-  - Sockets
+  - Tauri Studio
+  - React.js
+  - HTML5/CSS/JS
