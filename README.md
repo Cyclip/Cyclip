@@ -16,7 +16,7 @@
 
 <h2 align="center">I'm studying Mathematics and Computer Science, and aspiring to become a Software Engineer.</h2>
 
-(16yo)
+(17yo)
 
 I have used:
 - [Tauri Studio](https://tauri.studio/) (Rust)
