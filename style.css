@@ -1,0 +1,65 @@
+body {
+    margin: 0;
+    font-family: "Comfortaa";
+    background-color: #494c50;
+}
+
+.navbar-container {
+    background-color: transparent;
+    width: 100%;
+    position: fixed;
+    height: 80px;
+    padding: 10px;
+    box-sizing: border-box;
+    display: flex;
+    justify-content: space-between;
+    font-weight: bold;
+    color: white;
+    box-shadow: 0 2px 4px 0 rgba(0,0,0,.2);
+}
+
+.navbar-container .navbar-logo {
+    display: flex;
+    justify-content: left;
+    margin-left: 20px;
+    margin-top: 15px;
+}
+
+.navbar-container .navbar-logo .title {
+    margin: 0;
+    margin-top: 3px;
+    margin-left: 6px;
+}
+
+.navbar-container .navbar-menu {
+    display: inline-block; 
+    margin-right: 20px;
+}
+
+.navbar-container .navbar-menu ul {
+    display: flex;
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    margin-top: 3px;
+}
+
+.navbar-container .navbar-menu ul li {
+    display: flex;
+    align-items: center;
+    margin: 10px;
+    padding: 0 20px;
+    height: 40px;
+    font-size: 20px;
+    cursor: pointer;
+}
+
+.navbar-container .navbar-menu ul li a {
+    text-decoration: none;
+    color: white;
+    transition: color 0.3s ease;
+}
+
+.navbar-container .navbar-menu ul li:hover a {
+    color: #A7C7E7;
+}
